@@ -6,7 +6,7 @@ It includes a basic lexer to identify tokens, a stack based LL parser and the co
 generation based on LLVM.
 
 
-# Building
+# Building
 
  make  
 
