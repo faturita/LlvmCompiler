@@ -8,20 +8,18 @@ generation based on LLVM.
 
 # Building
 
-´´´
-make
-´´´
+    make
 
 Compiles the project.
 
 It can be used by doing
 
- ./interpreter
+    ./interpreter
 
 This will generate and dump the output in IR code of the translation.
 
 On the other hand,
 
- make test
+    make test
 
 Compiles the file average.sp which can be linked from the main.cpp program.
